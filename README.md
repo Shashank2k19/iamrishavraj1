@@ -11,6 +11,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrishavraj1&show_icons=true&count_private=true)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/iamrishavraj1/github-readme-stats)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrishavraj1)  
 
 ![GitHub metrics](https://metrics.lecoq.io/iamrishavraj1)  
@@ -18,3 +20,5 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamrishavraj1)  
 
 ![Profile views](https://gpvc.arturio.dev/iamrishavraj1)  
+
+
