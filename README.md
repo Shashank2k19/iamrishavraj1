@@ -11,7 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamrishavraj1&show_icons=true&count_private=true)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/iamrishavraj1/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamrishavraj1)](https://github.com/iamrishavraj1/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrishavraj1)  
 
