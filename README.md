@@ -29,6 +29,8 @@
 <a href="https://auth.geeksforgeeks.org/user/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="iamrishavraj1" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishavraj1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamrishavraj1" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrishavraj1&show_icons=true&theme=dracula&locale=en" alt="iamrishavraj1" /></p>
 
