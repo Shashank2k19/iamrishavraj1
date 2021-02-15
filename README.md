@@ -39,6 +39,3 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrishavraj1)
 
 
-
-![GitHub metrics](https://metrics.lecoq.io/iamrishavraj1)  
-
