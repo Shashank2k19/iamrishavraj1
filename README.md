@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Raj</h1>
-<h3 align="center">A passionate Engineering Student, Coder, Open Source Enthusiast, Volunteer from India.</h3>
+<h3 align="center">A passionate Student, Coder, Open Source Enthusiast, Volunteer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrishavraj1&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishavraj1" /> </p>
 
