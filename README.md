@@ -11,23 +11,7 @@
 
 - ⚡ Fun fact **Things aren’t always #000000 and #FFFFFF.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://dev.to/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://twitter.com/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13573179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13573179" height="30" width="40" /></a>
-<a href="https://codesandbox.com/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://fb.com/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://instagram.com/iamrishavraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamrishavraj" height="30" width="40" /></a>
-<a href="https://dribbble.com/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://www.behance.net/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://medium.com/@iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@iamrishavraj1" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/iamrishavraj1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="iamrishavraj1" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrishavraj1&show_icons=true&theme=dracula&locale=en&layout=compact" alt="iamrishavraj1" /></p>
 
