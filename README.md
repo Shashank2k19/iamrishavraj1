@@ -1,7 +1,4 @@
-<h1 align="center">Hey 👋</h1>
-
-![TWW](https://user-images.githubusercontent.com/62508858/114026069-7118d780-9893-11eb-8fbd-548cdbe3b73b.png)
-
+![Untitled design (2)](https://user-images.githubusercontent.com/62508858/114602766-9acb6780-9cb4-11eb-9a07-21ee43c56209.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrishavraj1&label=Profile%20views&color=0e75b6&style=flat" alt="iamrishavraj1" /> </p>
 
