@@ -17,13 +17,3 @@ I know how to write code and want to become an awesome Programmer and Developer.
 
 
 
-📘 Latest Blog Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-▶ [...more blog articles](https://dev.to/iamrishavraj1)
-
----
-
-
