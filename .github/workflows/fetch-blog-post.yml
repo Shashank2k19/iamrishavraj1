@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: iamrishavraj1/blog-post-workflow@main
         with:
-          feed_list: "https://catalins.tech/rss.xml"
+          feed_list: "https://iamrishavraj1.hashnode.dev//rss.xml"
