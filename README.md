@@ -20,6 +20,7 @@ I know how to write code and want to become an awesome Programmer and Developer.
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Remote Control Your Projects Using Git](https://iamrishavraj1.hashnode.dev/remote-control-your-projects-using-git)
 - [Make a Coke Cup using Pure CSS ❤](https://iamrishavraj1.hashnode.dev/make-a-coke-cup-using-pure-css)
 <!-- BLOG-POST-LIST:END -->
 
