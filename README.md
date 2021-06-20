@@ -7,7 +7,8 @@ I know how to write code and want to become an awesome Programmer and Developer.
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Make a Coke Cup using Pure CSS ❤](https://iamrishavraj1.hashnode.dev/make-a-coke-cup-using-pure-css)
+- [Function in Every Programming Language](https://dev.to/iamrishavraj1/function-in-every-programming-language-2fja)
+- [Remote Control Your Projects Using Git](https://dev.to/iamrishavraj1/remote-control-your-projects-using-git-4igb)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://dev.to/iamrishavraj1)
