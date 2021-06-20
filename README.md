@@ -12,4 +12,4 @@ I know how to write code and want to become an awesome Programmer and Developer.
 
 ▶ [...more blog articles](https://dev.to/iamrishavraj1)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&redirect=true)
