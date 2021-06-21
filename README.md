@@ -15,3 +15,12 @@ I know how to write code and want to become an awesome Programmer and Developer.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&redirect=true)
 
+
+
+I'm an early 🐤
+
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
