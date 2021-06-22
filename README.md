@@ -16,8 +16,5 @@ I know how to write code and want to become an awesome Programmer and Developer.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&redirect=true)
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
