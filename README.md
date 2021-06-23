@@ -16,5 +16,13 @@ I know how to write code and want to become an awesome Programmer and Developer.
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31g5zudo4iztrs6sawfvqgkuzrv4&redirect=true)
 
 <!--START_SECTION:waka-->
+```text
+Week: 15 June, 2021 - 22 June, 2021
+
+C++          1 hr 7 mins     █████████████▒░░░░░░░░░░░   53.09 % 
+HTML         40 mins         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Other        9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+```
 <!--END_SECTION:waka-->
 
