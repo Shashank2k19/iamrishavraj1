@@ -18,12 +18,11 @@ I know how to write code and want to become an awesome Programmer and Developer.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 June, 2021 - 04 July, 2021
+Week: 29 June, 2021 - 05 July, 2021
 
-Other        40 hrs 16 mins  ██████████████████████▓░░   90.44 % 
-JavaScript   3 hrs 55 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-CSS          14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other        37 hrs 20 mins  ███████████████████████░░   92.51 % 
+JavaScript   2 hrs 56 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
