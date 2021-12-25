@@ -24,6 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/iamrishavraj1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamrishavraj1" /></a></p><br><br>
 
+ ![Snake animation](https://github.com/eagrundy/iamrishavraj1/blob/output/github-contribution-grid-snake.svg)
 
 
 
